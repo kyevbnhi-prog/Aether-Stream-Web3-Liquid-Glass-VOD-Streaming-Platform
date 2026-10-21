@@ -1,0 +1,6 @@
+{
+  "name": "Aether Stream - Web3 Liquid-Glass VOD",
+  "description": "Ultra-premium Web3 Video-on-Demand and Live TV streaming platform with Apple-inspired liquid glass aesthetics, modular wallet VIP privileges, and instant playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
